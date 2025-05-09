@@ -6,8 +6,7 @@
 
 .breakdance-woocommerce ul.products .product, .breakdance-woocommerce a.woocommerce-LoopProduct-link {
     position: relative;
-    display: flex
-;
+    display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     align-items: flex-start;
