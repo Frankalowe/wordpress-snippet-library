@@ -1,9 +1,13 @@
+
+/* for the store page  */
+
 .breakdance-woocommerce ul.products .product a.woocommerce-LoopProduct-link {
     display: block !important; /* Override flex with block display */
     position: relative;
     /* The !important ensures it overrides any other styles */
 }
 
+/* forother pages */
 .breakdance-woocommerce ul.products .product, .breakdance-woocommerce a.woocommerce-LoopProduct-link {
     position: relative;
     display: flex;
