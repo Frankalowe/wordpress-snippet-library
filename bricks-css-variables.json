@@ -1,0 +1,130 @@
+{
+  "variables": [
+    {
+      "name": "h1",
+      "value": "clamp(3.5rem, 5vw + 1rem, 6rem)",
+      "id": "wyozxs"
+    },
+    {
+      "name": "h2",
+      "value": "clamp(2.8rem, 4vw + 0.8rem, 4.8rem)",
+      "id": "vwgzxa"
+    },
+    {
+      "name": "h3",
+      "value": "clamp(2.2rem, 3vw + 0.5rem, 3.6rem)",
+      "id": "pmbnjb"
+    },
+    {
+      "name": "h4",
+      "value": "clamp(1.8rem, 2vw + 0.4rem, 2.8rem)",
+      "id": "wdkuco"
+    },
+    {
+      "name": "h5",
+      "value": "clamp(1.6rem, 1.8vw + 0.3rem, 2.2rem)",
+      "id": "idpwww"
+    },
+    {
+      "name": "h6",
+      "value": "clamp(1.4rem, 1.5vw + 0.2rem, 1.8rem)",
+      "id": "skfovw"
+    },
+    {
+      "name": "txt",
+      "value": "clamp(1.6rem, 1.2vw + 0.2rem, 2rem)",
+      "id": "jpndbl"
+    },
+    {
+      "name": "txt-sm",
+      "value": "clamp(1.2rem, 1vw + 0.1rem, 1.4rem)",
+      "id": "cbchog"
+    },
+    {
+      "name": "sp-xxs",
+      "value": "4px",
+      "id": "etjrmv"
+    },
+    {
+      "name": "sp-xs",
+      "value": "8px",
+      "id": "brmrln"
+    },
+    {
+      "name": "sp-sm",
+      "value": "12px",
+      "id": "kebpoj"
+    },
+    {
+      "name": "sp-md",
+      "value": "16px",
+      "id": "vcmltj"
+    },
+    {
+      "name": "sp-lg",
+      "value": "32px",
+      "id": "kwscmy"
+    },
+    {
+      "name": "sp-xl",
+      "value": "64px",
+      "id": "diboaw"
+    },
+    {
+      "name": "h-60",
+      "value": "60vh",
+      "id": "uiybaf"
+    },
+    {
+      "name": "h-70",
+      "value": "70vh",
+      "id": "agcneq"
+    },
+    {
+      "name": "h-80",
+      "value": "80vh",
+      "id": "hscgkv"
+    },
+    {
+      "name": "h-90",
+      "value": "90vh",
+      "id": "jykndw"
+    },
+    {
+      "name": "h-100",
+      "value": "100vh",
+      "id": "xonqmx"
+    },
+    {
+      "name": "w-50",
+      "value": "50vw",
+      "id": "asuydh"
+    },
+    {
+      "name": "w-60",
+      "value": "60vw",
+      "id": "pzpcrg"
+    },
+    {
+      "name": "w-70",
+      "value": "70vw",
+      "id": "afsgps"
+    },
+    {
+      "name": "w-80",
+      "value": "80vw",
+      "id": "oxebsn"
+    },
+    {
+      "name": "w-90",
+      "value": "90vw",
+      "id": "aikjup"
+    },
+    {
+      "name": "w-100",
+      "value": "100vw",
+      "id": "zdoghb"
+    }
+  ],
+  "categories": []
+}
